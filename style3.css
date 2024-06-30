@@ -145,6 +145,17 @@ header .column span{
     }
 
 }
+button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+.controls {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
 
 
 
